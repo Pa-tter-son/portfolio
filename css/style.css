@@ -1,0 +1,15 @@
+.layout{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar{
+    width: 25%;
+}
+
+.hero{
+    height: 100vh;
+}
